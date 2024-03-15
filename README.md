@@ -1,7 +1,7 @@
 ### Hi there 👋,I'm Zhz
 
 喜欢捣鼓技术方面的东西，前端在职，目前在学习 java和react，励志成为全栈
-- 🌱 前端在职，目前在学习 java和react
+- 🌱 前端在职，目前在学习 nest和react
 - 👯 励志成为全栈的男人
 - 🔭 略懂爬虫，js逆向，.net 开发
 - 🤔 我的 CSDN 主页：[CSDN](https://blog.csdn.net/qq_51688013?spm=1000.2115.3001.5343)
