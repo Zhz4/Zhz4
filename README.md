@@ -27,10 +27,10 @@ I'm a passionate frontend developer who loves exploring new technologies. Curren
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=ffffff)
 
 ## 📊 GitHub Stats
-
+<!-- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zhz4&show_icons=true&theme=radical" alt="Zhz4's GitHub Stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhz4&layout=compact&theme=dark" alt="Top Languages" />
@@ -42,15 +42,6 @@ I'm a passionate frontend developer who loves exploring new technologies. Curren
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zhz4&theme=dracula" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zhz4&theme=onedark&column=7" alt="GitHub Trophies" />
-</p>
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Zhz4&theme=github" alt="Activity Graph" />
 </p>
 
 ## 📫 Connect With Me
