@@ -16,7 +16,7 @@
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![typescript](https://img.shields.io/badge/-typescript-8DD6F9?style=flat-square&logo=typescript&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zhz4&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhz4)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zhz4&locale=zh_Hans&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
