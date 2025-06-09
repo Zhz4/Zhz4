@@ -25,21 +25,8 @@ I'm a passionate frontend developer who loves exploring new technologies. Curren
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
 
 ## 📊 GitHub Stats
-<!-- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zhz4&show_icons=true&theme=radical" alt="Zhz4's GitHub Stats" />
-</p> -->
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhz4&layout=compact&theme=dark&hide=html" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zhz4&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zhz4&theme=dracula" alt="Profile Details" />
 </p>
 
 ## 📫 Connect With Me
